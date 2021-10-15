@@ -1,17 +1,15 @@
 # XSS
 Information Security Project (for College) demonstrating the 3 types of Cross Site Scripting vulnerabilities (Stored, Reflected, DOM)
 
-**Mentor**: Professor Jatin Sethi - jsethi@ddn.upes.ac.in
+**Mentor**: Professor Bhulakshmi Bonthu
 
 **Team**:
 
-    Shubhrika Maurya - Research & Documentation - shubhrika96@gmail.com
+    Vaibhav Sharma (20BKT0030)
     
-    Mridhul Bhambri - UI/UX Development - mridhul40@gmail.com
+    Krish G Jain (20BKT0050)
     
-    Vatsal Jain - Implementation of Reflected XSS & Documentation - vatsal1511@gmail.com
-    
-    Raghav Dua - Implementation of Back-end API & Stored XSS - duaraghav8@gmail.com
+    Vijay Nikhil (20BKT0004)
     
 **Technologies**:
 
@@ -34,8 +32,3 @@ The vulnerability can be fixed if we replace those tags with:
 <%= ... %>  (NOTICE THE '-' HYPHENE IS REPLACED BY '=' EQUAL TO)
 
 This encodes the HTML tags, i.e., \<script\> becomes \&lt;script\&gt;
-
-
-Update: Ours was declared the best Information Security Project amongst all presented by renowned Cyber Security Expert Rakshit Tandon during the inaugural ceremony of ISSA, Dehradun.
-
-https://twitter.com/ChandraDevershi/status/733916026828521472
